@@ -50,7 +50,7 @@ function lose(){
       initGrille()
       finishByWin=false
     }
-    ,1000)
+    ,1500)
 }
 
 function testDraw(){
